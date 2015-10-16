@@ -1,1 +1,3 @@
 Respuestas a las preguntas a la práctica 3
+20.¿Cuál es el propósito de trabajar con múltiples ramas?
+Poder crear funciones aisladas y luego fusionarlas con nuestro código principal en el caso de que se desee. 
